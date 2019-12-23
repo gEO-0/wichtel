@@ -80,6 +80,7 @@ Um zu testen ob alles funktioniert kannst du ein Programm ans Arduino übertrage
 
 Nun sollte das Programm an deinen Arduino übertragen worden sein und die interne LED blinken :)
 
+Weitere Projekte findes du [hier](/projects) im Projects Verzeichnis
 
 ## Der Floppotron
 Im folgenden Kapitel werden Funktionsweise und Aufbau des Floppotrons näher erläutert.
