@@ -24,8 +24,8 @@ Viel wichtiger sind die *Arduino-Projekte* die sich in den Dateien und Verzeichn
 Das ist eine sehr gute Frage! Es gibt sehr viele Programmiersprachen von denen du sicherlich schonmal irgendwo etwas gehört hast. Am [beliebtesten](https://fossbytes.com/most-popular-programming-languages/) sind:
 
 * [C++](https://www.wikiwand.com/de/C%2B%2B): von C++ in seiner "Reinform" würde ich als Anfänger abraten. Im Bezug auf Arduinos kann man da ne Ausnahme machen, das sind die Tutorial deutlich einfacher ;)
-* [Java](https://www.wikiwand.com/de/Java_(Programmiersprache): Meiner Meinung nach für Anfänger gut geeignet. Es gibt sehr gute Tutorials auf YouTube die dich in das Thema Java einführen. 
-* [Python](https://www.wikiwand.com/de/Python_(Programmiersprache): Ebenfalls sehr gut für Einsteiger geeignet. Ein kurzes Python-Programm lässt sich sehr schnell schreiben, da es mit wenig Overhead auskommt
+* [Java](https://www.wikiwand.com/de/Java_(Programmiersprache)): Meiner Meinung nach für Anfänger gut geeignet. Es gibt sehr gute Tutorials auf YouTube die dich in das Thema Java einführen. 
+* [Python](https://www.wikiwand.com/de/Python_(Programmiersprache)): Ebenfalls sehr gut für Einsteiger geeignet. Ein kurzes Python-Programm lässt sich sehr schnell schreiben, da es mit wenig Overhead auskommt
 
 Was du garantiert brauchen wirst sind gute Englischkenntnisse, da die meisten Inhalte auf Englisch sind. Die geeignetste Anlaufstelle sind wahrscheinlich YouTube-Tutorials. Hier werden dir eigentlich alles Schritt für Schritt erklärt. Falls doch mal etwas unklar ist, hilft meistens eine Google-Suche.
 
